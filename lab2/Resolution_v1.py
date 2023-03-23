@@ -4,6 +4,7 @@ from queue import Queue
 
 S = list()  # 全局变量
 
+# 判断项是否是变量
 def is_var(item):
     if len(item) == 1 and item.isalpha():
         return True
@@ -12,9 +13,9 @@ def is_var(item):
 
 # 读取输入字符串，并转化为列表
 def format_input(clause):
-    pat = re.compile(r'[¬\w]+\(.*?\)')
-    st = re.findall(pat, clause)
-    for i in range(len(st)):
+    pat = re.compile(r'[¬\w]+\(.*?\)') #正则表达式的格式
+    st = re.findall(pat, clause) #正则表达式匹配
+    for i in range(len(st)): #将匹配后多余的内容删去后加入到S中
         st[i] = st[i].replace('(', ',').replace(')', '').replace(' ', '').split(',')
     S.append(st)
 
@@ -30,7 +31,7 @@ def syncreticable(clause_one, clause_two):
     return True
 
 
-# 判断能否归结
+# 判断能否归结的函数
 # 句子已经合一，不能归结的情况只有项不一样
 def combinable(clause_one, clause_two):
     # 归结的句子必然是合一后的，所以先判断能否合一
@@ -176,7 +177,7 @@ def Resolution(num):
                             if syn:
                                 parents.append((i, ki, j, kj))  # 记录谁替换谁
                                 assignment.append([])  # 加入语句，和parents下标对齐
-                                # 分情况合一，找变量，难点在于怎么处理变量对变量的情况？
+                                # 分情况合一，找变量
                                 index = list(0 for n1 in range(len(clause_one)))  # 判断哪个项需要作变量替换
                                 rep = False  # 是否替换？
                                 for m in range(1, len(clause_one)):
@@ -232,6 +233,7 @@ def Resolution(num):
         if cur_len == S_len:
             res = False
             end = True
+        # 更新层数
         else:
             cur_len = S_len
     # 格式化输出
@@ -239,39 +241,3 @@ def Resolution(num):
         format_output(assignment, parents, num)
     else:
         print('No resolution!')
-
-'''''
-# 做个菜单，读取文件或者自由输入
-num = 0
-while True:
-    choice_1 = input('请输入括号中的数字以选择：\n（1）自由输入\n（2）查看案例\n')
-    if choice_1 == '1':
-        print('请输入你的内容：')
-        num = int(input())
-        for i in range(num):
-            clause = input()
-            format_input(clause)
-    elif choice_1 == '2':
-        choice_2 = input('请输入括号中的数字选择你想查看的案例：\n（1）Aipine Club（2）Graduate Student（3）Block World\n')
-        filename = ''
-        if choice_2 == '1':
-            filename = 'test1.txt'
-        elif choice_2 == '2':
-            filename = 'test2.txt'
-        elif choice_2 == '3':
-            filename = 'test3.txt'
-
-        with open(filename, encoding='UTF-8') as f:
-            num = int(f.readline().replace('\n', ''))
-            print(num, end='\n')
-            clauses = f.readlines()
-            for clause in clauses:
-                print(clause, end='')
-                format_input(clause)
-    choice_3 = input('\n继续使用/退出：y/n\n')
-    if choice_3 == 'y':
-        continue
-    elif choice_3 == 'n':
-        break
-Resolution(num)
-'''

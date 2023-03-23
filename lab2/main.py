@@ -1,4 +1,5 @@
 from Resolution_v1 import Resolution, format_input, S
+import time
 
 if __name__ == '__main__':
     # 做个菜单，读取文件或者自由输入
@@ -28,9 +29,10 @@ if __name__ == '__main__':
                 for clause in clauses:
                     print(clause, end='')
                     format_input(clause)
-
+        start = time.time()
         Resolution(num)
-
+        end = time.time()
+        print('\nRunning time %.6f sec' % (end - start))
         choice_3 = input('\n继续使用/退出：y/n\n')
         if choice_3 == 'y':
             continue
