@@ -1,0 +1,501 @@
+DocumentID,Words (split by space),anger,disgust,fear,joy,sad,surprise
+test1,terror officials see al qaeda chiefs regaining power,£¿,£¿,£¿,£¿,£¿,£¿
+test2,ivrea journal in italian town a civics lesson from pelting neighbors,£¿,£¿,£¿,£¿,£¿,£¿
+test3,iraqi sunni lands show new oil and gas promise,£¿,£¿,£¿,£¿,£¿,£¿
+test4,princess and heir of franz ferdinand fights to repeal a law and gain a castle,£¿,£¿,£¿,£¿,£¿,£¿
+test5,a film star in kampala conjuring aminos ghost,£¿,£¿,£¿,£¿,£¿,£¿
+test6,militants attack u s base in iraq,£¿,£¿,£¿,£¿,£¿,£¿
+test7,north africa feared as staging ground for terror,£¿,£¿,£¿,£¿,£¿,£¿
+test8,iran says sunnis using pakistan as base planned fatal bombing,£¿,£¿,£¿,£¿,£¿,£¿
+test9,anglicans rebuke u s branch on same sex unions,£¿,£¿,£¿,£¿,£¿,£¿
+test10,homemade bombs kill on indian train,£¿,£¿,£¿,£¿,£¿,£¿
+test11,al qaeda chiefs are seen to regain power,£¿,£¿,£¿,£¿,£¿,£¿
+test12,chvez threatens to jail violators of price controls,£¿,£¿,£¿,£¿,£¿,£¿
+test13,bush declares iran s arms role in iraq is certain,£¿,£¿,£¿,£¿,£¿,£¿
+test14,accord on north korea is announced,£¿,£¿,£¿,£¿,£¿,£¿
+test15,u s says powerful iraqi cleric is living in iran,£¿,£¿,£¿,£¿,£¿,£¿
+test16,baghdad plan is a success iraq prime minister tells bush,£¿,£¿,£¿,£¿,£¿,£¿
+test17,iraqi sunni lands show new oil and gas promise,£¿,£¿,£¿,£¿,£¿,£¿
+test18,dispute over iraqi cleric said to have gone to iran,£¿,£¿,£¿,£¿,£¿,£¿
+test19,planning seen in iraqi attacks on u s copters,£¿,£¿,£¿,£¿,£¿,£¿
+test20,in the world of life saving drugs a growing epidemic of deadly fakes,£¿,£¿,£¿,£¿,£¿,£¿
+test21,basics a mammal in winter with a furnace of her own,£¿,£¿,£¿,£¿,£¿,£¿
+test22,books on science the problems in modeling nature with its unruly natural tendencies,£¿,£¿,£¿,£¿,£¿,£¿
+test23,believing scripture but playing by science s rules,£¿,£¿,£¿,£¿,£¿,£¿
+test24,a familiar and prescient voice brought to life,£¿,£¿,£¿,£¿,£¿,£¿
+test25,findings a cool million for a climate backup plan,£¿,£¿,£¿,£¿,£¿,£¿
+test26,call it serendipity a missing piece of washington s war tent is found,£¿,£¿,£¿,£¿,£¿,£¿
+test27,free will now you have it now you don t,£¿,£¿,£¿,£¿,£¿,£¿
+test28,archaeologists find signs of early chimps tool use,£¿,£¿,£¿,£¿,£¿,£¿
+test29,wizardry at harvard physicists move light,£¿,£¿,£¿,£¿,£¿,£¿
+test30,the summit a slap in the face of the palestinians,£¿,£¿,£¿,£¿,£¿,£¿
+test31,moscow says palestine israeli contacts key to mideast peace,£¿,£¿,£¿,£¿,£¿,£¿
+test32,mideast summit edns with little progress,£¿,£¿,£¿,£¿,£¿,£¿
+test33,india decries an act of sabotage,£¿,£¿,£¿,£¿,£¿,£¿
+test34,pakistan india peace talks planned despite bombings,£¿,£¿,£¿,£¿,£¿,£¿
+test35,czechs poles get missile warning,£¿,£¿,£¿,£¿,£¿,£¿
+test36,russia warns us against missile bases in east europe,£¿,£¿,£¿,£¿,£¿,£¿
+test37,cheney starts visit to japan australia,£¿,£¿,£¿,£¿,£¿,£¿
+test38,china cheney shores up the trilateral alliance,£¿,£¿,£¿,£¿,£¿,£¿
+test39,iraq insurgents attack us base,£¿,£¿,£¿,£¿,£¿,£¿
+test40,us soldiers die in day of violence,£¿,£¿,£¿,£¿,£¿,£¿
+test41,iraqi suicide attack kills two us troops as militants fight purge,£¿,£¿,£¿,£¿,£¿,£¿
+test42,iran reneges on nuclear payments to russia,£¿,£¿,£¿,£¿,£¿,£¿
+test43,top colombia official resigns,£¿,£¿,£¿,£¿,£¿,£¿
+test44,colombia fm resigns after relatives arrests for militia links,£¿,£¿,£¿,£¿,£¿,£¿
+test45,foreign minister of colombia quits in scandal,£¿,£¿,£¿,£¿,£¿,£¿
+test46,new zealand unlikely to allow crippled japanese whaler,£¿,£¿,£¿,£¿,£¿,£¿
+test47,damaged japanese whaling ship may resume hunting off antarctica,£¿,£¿,£¿,£¿,£¿,£¿
+test48,japanese whaling ship won t accept help,£¿,£¿,£¿,£¿,£¿,£¿
+test49,iran top n envoy heads for vienna for nuke talks,£¿,£¿,£¿,£¿,£¿,£¿
+test50,victims of air india still wait for justice,£¿,£¿,£¿,£¿,£¿,£¿
+test51,kanishka bombing case inquiry judge threatens to quit,£¿,£¿,£¿,£¿,£¿,£¿
+test52,judge threatens to shut down air india inquiry,£¿,£¿,£¿,£¿,£¿,£¿
+test53,royal rescues presidential hopes with commanding performance,£¿,£¿,£¿,£¿,£¿,£¿
+test54,royal seeks to revive french bid,£¿,£¿,£¿,£¿,£¿,£¿
+test55,sarkozy comfort zone offers a royal opportunity,£¿,£¿,£¿,£¿,£¿,£¿
+test56,hicks first in line for trial bush says,£¿,£¿,£¿,£¿,£¿,£¿
+test57,australia tells bush to speed up guantanamo trial,£¿,£¿,£¿,£¿,£¿,£¿
+test58,howard presses bush on terror suspect,£¿,£¿,£¿,£¿,£¿,£¿
+test59,france ends toxic alert at canadian embassy in paris,£¿,£¿,£¿,£¿,£¿,£¿
+test60,paris police investigate package at canadian embassy,£¿,£¿,£¿,£¿,£¿,£¿
+test61,false alarm at canadian embassy in paris,£¿,£¿,£¿,£¿,£¿,£¿
+test62,afghan forces retake town that was overrun by taliban,£¿,£¿,£¿,£¿,£¿,£¿
+test63,taliban seize rural district in southwest as police flee,£¿,£¿,£¿,£¿,£¿,£¿
+test64,afghan poppy war alienates farmers,£¿,£¿,£¿,£¿,£¿,£¿
+test65,will north korea honor pledge this time,£¿,£¿,£¿,£¿,£¿,£¿
+test66,kim jong il bans japanese cars in north korea,£¿,£¿,£¿,£¿,£¿,£¿
+test67,iran vs north korea not all enemies are equal,£¿,£¿,£¿,£¿,£¿,£¿
+test68,catholic archbishop outlines anglican merger hopes,£¿,£¿,£¿,£¿,£¿,£¿
+test69,anglican and catholic churches could merge,£¿,£¿,£¿,£¿,£¿,£¿
+test70,us helicopter crash kills troops in afghanistan,£¿,£¿,£¿,£¿,£¿,£¿
+test71,eight us soldiers killed in zabul helicopter crash,£¿,£¿,£¿,£¿,£¿,£¿
+test72,arroyo lauds passage of anti terror bill,£¿,£¿,£¿,£¿,£¿,£¿
+test73,house passes anti terrorism measure manila,£¿,£¿,£¿,£¿,£¿,£¿
+test74,livingstone s transport empire may extend,£¿,£¿,£¿,£¿,£¿,£¿
+test75,london is pace setter on congestion toll says mayor,£¿,£¿,£¿,£¿,£¿,£¿
+test76,protest greets congestion charge s westward push,£¿,£¿,£¿,£¿,£¿,£¿
+test77,thailand attacks kill three injure,£¿,£¿,£¿,£¿,£¿,£¿
+test78,thai govt moves to smooth over relations with south,£¿,£¿,£¿,£¿,£¿,£¿
+test79,bombings say muslim rebels won t negotiate,£¿,£¿,£¿,£¿,£¿,£¿
+test80,roots of autism more complex than thought,£¿,£¿,£¿,£¿,£¿,£¿
+test81,largest ever autism study identifies two genetic culprits,£¿,£¿,£¿,£¿,£¿,£¿
+test82,canadian breakthrough offers hope on autism,£¿,£¿,£¿,£¿,£¿,£¿
+test83,beware of peanut butter pathogens,£¿,£¿,£¿,£¿,£¿,£¿
+test84,experts offer advice on salmonella,£¿,£¿,£¿,£¿,£¿,£¿
+test85,experts issue new heart disease guidelines for women,£¿,£¿,£¿,£¿,£¿,£¿
+test86,for women aspirin a day could keep stroke away,£¿,£¿,£¿,£¿,£¿,£¿
+test87,high cholesterol raises stroke risk healthy women,£¿,£¿,£¿,£¿,£¿,£¿
+test88,cooked chicken breasts join tainted food recalls,£¿,£¿,£¿,£¿,£¿,£¿
+test89,ready to eat chicken breasts recalled due to suspected listeria,£¿,£¿,£¿,£¿,£¿,£¿
+test90,fully cooked chicken strips recalled,£¿,£¿,£¿,£¿,£¿,£¿
+test91,committee debates cancer vaccine plan,£¿,£¿,£¿,£¿,£¿,£¿
+test92,stop cancer with a shot,£¿,£¿,£¿,£¿,£¿,£¿
+test93,mln birds to be vaccinated from bird flu near moscow,£¿,£¿,£¿,£¿,£¿,£¿
+test94,thousands tested after russian h n outbreak,£¿,£¿,£¿,£¿,£¿,£¿
+test95,russian bird flu outbreak is deadly asian strain,£¿,£¿,£¿,£¿,£¿,£¿
+test96,bernard matthews to lay off up to workers,£¿,£¿,£¿,£¿,£¿,£¿
+test97,matthews lays off turkey workers,£¿,£¿,£¿,£¿,£¿,£¿
+test98,reopening bird flu hitfactory ignores risks poultryman,£¿,£¿,£¿,£¿,£¿,£¿
+test99,goodbye to girlhood,£¿,£¿,£¿,£¿,£¿,£¿
+test100,media cited for showing girls as sex objects,£¿,£¿,£¿,£¿,£¿,£¿
+test101,sexualisation harms young girls,£¿,£¿,£¿,£¿,£¿,£¿
+test102,a shot in the arm,£¿,£¿,£¿,£¿,£¿,£¿
+test103,thousands line up to get late flu shots,£¿,£¿,£¿,£¿,£¿,£¿
+test104,king county offering some free flu vaccines,£¿,£¿,£¿,£¿,£¿,£¿
+test105,bush vows cooperation on health care,£¿,£¿,£¿,£¿,£¿,£¿
+test106,health returns as hot issue in race,£¿,£¿,£¿,£¿,£¿,£¿
+test107,small business owners find bush health plan appealing,£¿,£¿,£¿,£¿,£¿,£¿
+test108,pediatricians say more cord blood is needed now,£¿,£¿,£¿,£¿,£¿,£¿
+test109,whether to save cord blood can be puzzle for parents,£¿,£¿,£¿,£¿,£¿,£¿
+test110,retinal implant helping blind people see again,£¿,£¿,£¿,£¿,£¿,£¿
+test111,indonesia will not share flu samples,£¿,£¿,£¿,£¿,£¿,£¿
+test112,health canada issues advice on canned tuna,£¿,£¿,£¿,£¿,£¿,£¿
+test113,cholesterol link in diabetes study,£¿,£¿,£¿,£¿,£¿,£¿
+test114,pig cells hope for diabetes cure,£¿,£¿,£¿,£¿,£¿,£¿
+test115,sick hearts switch on a fetal gene,£¿,£¿,£¿,£¿,£¿,£¿
+test116,foetal mechanism helps heart failure,£¿,£¿,£¿,£¿,£¿,£¿
+test117,planned cesareans not risk free group warns,£¿,£¿,£¿,£¿,£¿,£¿
+test118,scientists tout cocoa s health benefits,£¿,£¿,£¿,£¿,£¿,£¿
+test119,feeding your brain new benefits found in chocolate,£¿,£¿,£¿,£¿,£¿,£¿
+test120,some cocoa may improve brain blood flow,£¿,£¿,£¿,£¿,£¿,£¿
+test121,lawyer for deceased nazi era collaborator papon vows to bury him,£¿,£¿,£¿,£¿,£¿,£¿
+test122,cocoa could be antidote to age related diseases says new study,£¿,£¿,£¿,£¿,£¿,£¿
+test123,china denies reports of north korean apology,£¿,£¿,£¿,£¿,£¿,£¿
+test124,hungarian opposition calls for vote after violence escalates,£¿,£¿,£¿,£¿,£¿,£¿
+test125,au regrets sudan s expulsion of un envoy,£¿,£¿,£¿,£¿,£¿,£¿
+test126,bush officials no big move in iraq plan,£¿,£¿,£¿,£¿,£¿,£¿
+test127,opponent is put on the spot over remarks about clinton,£¿,£¿,£¿,£¿,£¿,£¿
+test128,house ethics panel talks to hastert aide,£¿,£¿,£¿,£¿,£¿,£¿
+test129,bellsouth says profit rises on cingular earnings,£¿,£¿,£¿,£¿,£¿,£¿
+test130,enron boss gets year sentence,£¿,£¿,£¿,£¿,£¿,£¿
+test131,sony apologizes for battery recall,£¿,£¿,£¿,£¿,£¿,£¿
+test132,google unveils do it yourself search engine,£¿,£¿,£¿,£¿,£¿,£¿
+test133,firefox hits the web,£¿,£¿,£¿,£¿,£¿,£¿
+test134,oracle world opens with dell unveiling amd powered computers,£¿,£¿,£¿,£¿,£¿,£¿
+test135,seahawks qb hasselbeck out weeks,£¿,£¿,£¿,£¿,£¿,£¿
+test136,marathon winner released from hospital,£¿,£¿,£¿,£¿,£¿,£¿
+test137,punter charged with stabbing asks to live outside state,£¿,£¿,£¿,£¿,£¿,£¿
+test138,allmendinger joining toyota team in nascar,£¿,£¿,£¿,£¿,£¿,£¿
+test139,trying to assess the damage in cleveland,£¿,£¿,£¿,£¿,£¿,£¿
+test140,bryant s boot may have salvaged bucs season,£¿,£¿,£¿,£¿,£¿,£¿
+test141,this week in auto racing october october,£¿,£¿,£¿,£¿,£¿,£¿
+test142,merriman violation stuns ex teammate,£¿,£¿,£¿,£¿,£¿,£¿
+test143,bruce revells in upset,£¿,£¿,£¿,£¿,£¿,£¿
+test144,steelers roethlisberger has concussion,£¿,£¿,£¿,£¿,£¿,£¿
+test145,arthurs upsets robredo in first round at the st petersburg open,£¿,£¿,£¿,£¿,£¿,£¿
+test146,mbeki world cup planning on track,£¿,£¿,£¿,£¿,£¿,£¿
+test147,clinical everton show moyes means business,£¿,£¿,£¿,£¿,£¿,£¿
+test148,ms adds office to vista coupon program,£¿,£¿,£¿,£¿,£¿,£¿
+test149,one search does not fit all,£¿,£¿,£¿,£¿,£¿,£¿
+test150,apple s dark secret the claim,£¿,£¿,£¿,£¿,£¿,£¿
+test151,bad weather cancels men s downhill,£¿,£¿,£¿,£¿,£¿,£¿
+test152,cool millions for youtube founders,£¿,£¿,£¿,£¿,£¿,£¿
+test153,london market a shopping dining haven,£¿,£¿,£¿,£¿,£¿,£¿
+test154,jackass star marries childhood friend the secrets people reveal,£¿,£¿,£¿,£¿,£¿,£¿
+test155,audio slide show a love story lasting years,£¿,£¿,£¿,£¿,£¿,£¿
+test156,microsoft to release next generation phone,£¿,£¿,£¿,£¿,£¿,£¿
+test157,body shop s roddick has hepatitis c,£¿,£¿,£¿,£¿,£¿,£¿
+test158,teen allegedly armed by mom turns self in,£¿,£¿,£¿,£¿,£¿,£¿
+test159,oxfam action needed for chad,£¿,£¿,£¿,£¿,£¿,£¿
+test160,violence continues at disputed holy site,£¿,£¿,£¿,£¿,£¿,£¿
+test161,storm leaves behind major travel troubles,£¿,£¿,£¿,£¿,£¿,£¿
+test162,u s troops killed hunting weapons cache,£¿,£¿,£¿,£¿,£¿,£¿
+test163,china s friends highlights web freedoms,£¿,£¿,£¿,£¿,£¿,£¿
+test164,nato afghanistan peace by,£¿,£¿,£¿,£¿,£¿,£¿
+test165,alaska s northern lights captivate japanese,£¿,£¿,£¿,£¿,£¿,£¿
+test166,smith can t be buried until hearing,£¿,£¿,£¿,£¿,£¿,£¿
+test167,spacewalker sets new u s record,£¿,£¿,£¿,£¿,£¿,£¿
+test168,fortune india the superpower think again,£¿,£¿,£¿,£¿,£¿,£¿
+test169,kerry blasts escalation of misguided war,£¿,£¿,£¿,£¿,£¿,£¿
+test170,anna nicole claimant a prince of a guy,£¿,£¿,£¿,£¿,£¿,£¿
+test171,ronnie and eto o hug and make up,£¿,£¿,£¿,£¿,£¿,£¿
+test172,best of the chicago auto show,£¿,£¿,£¿,£¿,£¿,£¿
+test173,grey s betty scrubs get boost,£¿,£¿,£¿,£¿,£¿,£¿
+test174,massive mud traps dozens of families,£¿,£¿,£¿,£¿,£¿,£¿
+test175,edwards blogger quits becomes journalistic martyr,£¿,£¿,£¿,£¿,£¿,£¿
+test176,town packs gym to mourn killed in fire,£¿,£¿,£¿,£¿,£¿,£¿
+test177,spain ahead although nadal is out,£¿,£¿,£¿,£¿,£¿,£¿
+test178,ecb holds rates at percent,£¿,£¿,£¿,£¿,£¿,£¿
+test179,iran rejects us claims of supplying weapons in iraq,£¿,£¿,£¿,£¿,£¿,£¿
+test180,jakarta begins disinfection,£¿,£¿,£¿,£¿,£¿,£¿
+test181,rowling heartbroken euphoric at potter s end,£¿,£¿,£¿,£¿,£¿,£¿
+test182,apple revs up mac attacks on vista,£¿,£¿,£¿,£¿,£¿,£¿
+test183,fear hinders black marrow donation,£¿,£¿,£¿,£¿,£¿,£¿
+test184,texan allegedly joined somalia rebel plot,£¿,£¿,£¿,£¿,£¿,£¿
+test185,u s to allow iraqi refugees,£¿,£¿,£¿,£¿,£¿,£¿
+test186,japan whaling activists terrorists,£¿,£¿,£¿,£¿,£¿,£¿
+test187,hannibal bites the big one,£¿,£¿,£¿,£¿,£¿,£¿
+test188,women protest pakistan demolition,£¿,£¿,£¿,£¿,£¿,£¿
+test189,wii news for gamers,£¿,£¿,£¿,£¿,£¿,£¿
+test190,democrats look beyond symbolic vote on iraq,£¿,£¿,£¿,£¿,£¿,£¿
+test191,portugal to vote on abortion laws,£¿,£¿,£¿,£¿,£¿,£¿
+test192,frustration rises as north korea nuclear talks stall,£¿,£¿,£¿,£¿,£¿,£¿
+test193,horse teeth give details of ancient big chill,£¿,£¿,£¿,£¿,£¿,£¿
+test194,scam lures victims with free puppy offer,£¿,£¿,£¿,£¿,£¿,£¿
+test195,two koreas to resume talks,£¿,£¿,£¿,£¿,£¿,£¿
+test196,mickelson driving force at masters,£¿,£¿,£¿,£¿,£¿,£¿
+test197,england opt for bopara over loye,£¿,£¿,£¿,£¿,£¿,£¿
+test198,create own thrillville for a wild ride,£¿,£¿,£¿,£¿,£¿,£¿
+test199,edwards campaign blogger quits amid catholic controversy,£¿,£¿,£¿,£¿,£¿,£¿
+test200,judge preserve anna nicole s body,£¿,£¿,£¿,£¿,£¿,£¿
+test201,dolphins sea lions may report for duty soon,£¿,£¿,£¿,£¿,£¿,£¿
+test202,nasdaq lse battle nears deadline,£¿,£¿,£¿,£¿,£¿,£¿
+test203,a personal plea for hpv vaccine plan,£¿,£¿,£¿,£¿,£¿,£¿
+test204,u s opens door for iraqi refugees,£¿,£¿,£¿,£¿,£¿,£¿
+test205,swiss plane crashes at moscow airport,£¿,£¿,£¿,£¿,£¿,£¿
+test206,study napping might help heart,£¿,£¿,£¿,£¿,£¿,£¿
+test207,myspace sales surging,£¿,£¿,£¿,£¿,£¿,£¿
+test208,telecoms giant slashes jobs,£¿,£¿,£¿,£¿,£¿,£¿
+test209,air france klm profit rises,£¿,£¿,£¿,£¿,£¿,£¿
+test210,uganda parliament votes to send troops to somalia,£¿,£¿,£¿,£¿,£¿,£¿
+test211,king and queen reign at british film awards,£¿,£¿,£¿,£¿,£¿,£¿
+test212,murphys rule box office with norbit,£¿,£¿,£¿,£¿,£¿,£¿
+test213,thousands rally in lebanon,£¿,£¿,£¿,£¿,£¿,£¿
+test214,yahoo s mission quest,£¿,£¿,£¿,£¿,£¿,£¿
+test215,area should get inches of snow today,£¿,£¿,£¿,£¿,£¿,£¿
+test216,miss brazil wins lawsuit competition,£¿,£¿,£¿,£¿,£¿,£¿
+test217,snow wreaks havoc in east midwest,£¿,£¿,£¿,£¿,£¿,£¿
+test218,the secrets people reveal,£¿,£¿,£¿,£¿,£¿,£¿
+test219,research supports medicinal marijuana,£¿,£¿,£¿,£¿,£¿,£¿
+test220,all african amputee football games kick off,£¿,£¿,£¿,£¿,£¿,£¿
+test221,group video shows chopper go down,£¿,£¿,£¿,£¿,£¿,£¿
+test222,sale of chrysler possible,£¿,£¿,£¿,£¿,£¿,£¿
+test223,russia condemns terrorist acts on buses outside beirut,£¿,£¿,£¿,£¿,£¿,£¿
+test224,technology may save india s river dolphins,£¿,£¿,£¿,£¿,£¿,£¿
+test225,airbus a superjumbo takes off,£¿,£¿,£¿,£¿,£¿,£¿
+test226,naps are great for chaps,£¿,£¿,£¿,£¿,£¿,£¿
+test227,female astronaut sets record,£¿,£¿,£¿,£¿,£¿,£¿
+test228,corn stoves popping up in u s homes,£¿,£¿,£¿,£¿,£¿,£¿
+test229,iraq closes borders with syria and iran,£¿,£¿,£¿,£¿,£¿,£¿
+test230,the troubling ending of the departed,£¿,£¿,£¿,£¿,£¿,£¿
+test231,vietnamese bank plans ipo listing,£¿,£¿,£¿,£¿,£¿,£¿
+test232,toyota s scion parks in second life,£¿,£¿,£¿,£¿,£¿,£¿
+test233,obama will run in,£¿,£¿,£¿,£¿,£¿,£¿
+test234,cagney lacey finally coming to dvd,£¿,£¿,£¿,£¿,£¿,£¿
+test235,merkel stop iran,£¿,£¿,£¿,£¿,£¿,£¿
+test236,salt lake city mall shooter was teenager,£¿,£¿,£¿,£¿,£¿,£¿
+test237,female astronaut sets record,£¿,£¿,£¿,£¿,£¿,£¿
+test238,oil holds at,£¿,£¿,£¿,£¿,£¿,£¿
+test239,obama announces presidential bid,£¿,£¿,£¿,£¿,£¿,£¿
+test240,tell your boss naps are good for you,£¿,£¿,£¿,£¿,£¿,£¿
+test241,serbia rejects united nation s kosovo plan,£¿,£¿,£¿,£¿,£¿,£¿
+test242,amish discuss shootings,£¿,£¿,£¿,£¿,£¿,£¿
+test243,jail me i ate ivory coast chocolate,£¿,£¿,£¿,£¿,£¿,£¿
+test244,can north korea be trusted,£¿,£¿,£¿,£¿,£¿,£¿
+test245,tourism lags in bush s hometown,£¿,£¿,£¿,£¿,£¿,£¿
+test246,astronaut s arrest tests nasa s mettle,£¿,£¿,£¿,£¿,£¿,£¿
+test247,man gets second chance at space ride,£¿,£¿,£¿,£¿,£¿,£¿
+test248,go ahead take a nap science says,£¿,£¿,£¿,£¿,£¿,£¿
+test249,weekly nielsen will lost find its way back,£¿,£¿,£¿,£¿,£¿,£¿
+test250,brith airways baggage charges cause confusion,£¿,£¿,£¿,£¿,£¿,£¿
+test251,indonesian with bird flu dies,£¿,£¿,£¿,£¿,£¿,£¿
+test252,st louis poised for entertainment upswing,£¿,£¿,£¿,£¿,£¿,£¿
+test253,new york city may ban ipods while crossing street,£¿,£¿,£¿,£¿,£¿,£¿
+test254,boy allegedly told to kill by mom gives up,£¿,£¿,£¿,£¿,£¿,£¿
+test255,gray wolves off endangered list,£¿,£¿,£¿,£¿,£¿,£¿
+test256,vista s hyped security will be tested,£¿,£¿,£¿,£¿,£¿,£¿
+test257,uk police slammed over terror raid,£¿,£¿,£¿,£¿,£¿,£¿
+test258,mogadishu residents flee blasts,£¿,£¿,£¿,£¿,£¿,£¿
+test259,bomb kills on military bus in iran,£¿,£¿,£¿,£¿,£¿,£¿
+test260,warioware wii make perfect fit,£¿,£¿,£¿,£¿,£¿,£¿
+test261,u s at odds with cleric s aide,£¿,£¿,£¿,£¿,£¿,£¿
+test262,desperate iraqi mother relies on militia for help,£¿,£¿,£¿,£¿,£¿,£¿
+test263,full details of the eu report on iran,£¿,£¿,£¿,£¿,£¿,£¿
+test264,singer on cowell glad he was mean,£¿,£¿,£¿,£¿,£¿,£¿
+test265,jones faces europe meetings snub,£¿,£¿,£¿,£¿,£¿,£¿
+test266,beckham goal helps real snatch win,£¿,£¿,£¿,£¿,£¿,£¿
+test267,guinea plan offices close as country declares emergency,£¿,£¿,£¿,£¿,£¿,£¿
+test268,japan s economy grows,£¿,£¿,£¿,£¿,£¿,£¿
+test269,united nations peacekeepers raid haitian slum,£¿,£¿,£¿,£¿,£¿,£¿
+test270,work starts on arctic seed vault,£¿,£¿,£¿,£¿,£¿,£¿
+test271,social networking goes mobile,£¿,£¿,£¿,£¿,£¿,£¿
+test272,beauticians cut curl offer stroke prevention info,£¿,£¿,£¿,£¿,£¿,£¿
+test273,siesta cuts risk of heart disease death study finds,£¿,£¿,£¿,£¿,£¿,£¿
+test274,thomas cook to merge with mytravel,£¿,£¿,£¿,£¿,£¿,£¿
+test275,nap your way to a successful career,£¿,£¿,£¿,£¿,£¿,£¿
+test276,village buried by inches of snow,£¿,£¿,£¿,£¿,£¿,£¿
+test277,oprah announces new book club pick,£¿,£¿,£¿,£¿,£¿,£¿
+test278,the science of love and lust,£¿,£¿,£¿,£¿,£¿,£¿
+test279,northeaster cancels flights shuts schools,£¿,£¿,£¿,£¿,£¿,£¿
+test280,napping may be good for your heart,£¿,£¿,£¿,£¿,£¿,£¿
+test281,ryan o neal injured son s girlfriend,£¿,£¿,£¿,£¿,£¿,£¿
+test282,chrysler s valentine s day massacre,£¿,£¿,£¿,£¿,£¿,£¿
+test283,madrid bombings trial begins,£¿,£¿,£¿,£¿,£¿,£¿
+test284,fight starts over hpv vaccine,£¿,£¿,£¿,£¿,£¿,£¿
+test285,autos drive european gains,£¿,£¿,£¿,£¿,£¿,£¿
+test286,james brown s partner can get her things,£¿,£¿,£¿,£¿,£¿,£¿
+test287,auto show canceled,£¿,£¿,£¿,£¿,£¿,£¿
+test288,uk luxury maker burberry made in china,£¿,£¿,£¿,£¿,£¿,£¿
+test289,on the job naps might cut heart risk,£¿,£¿,£¿,£¿,£¿,£¿
+test290,no florida survives rupp arena streak hits,£¿,£¿,£¿,£¿,£¿,£¿
+test291,j k rowling marks spot of potter s end,£¿,£¿,£¿,£¿,£¿,£¿
+test292,gronholm takes a commanding lead,£¿,£¿,£¿,£¿,£¿,£¿
+test293,howard slams obama on iraq policy,£¿,£¿,£¿,£¿,£¿,£¿
+test294,manila hints at ransom approval,£¿,£¿,£¿,£¿,£¿,£¿
+test295,champion murray too good for kim,£¿,£¿,£¿,£¿,£¿,£¿
+test296,g yen skates by yuan singled out,£¿,£¿,£¿,£¿,£¿,£¿
+test297,gunman was srebrenica survivor,£¿,£¿,£¿,£¿,£¿,£¿
+test298,cutting through the clutter to get things done,£¿,£¿,£¿,£¿,£¿,£¿
+test299,mother lohan is doing great in rehab,£¿,£¿,£¿,£¿,£¿,£¿
+test300,who s going to win at the grammys,£¿,£¿,£¿,£¿,£¿,£¿
+test301,libby defense upsets judge rests,£¿,£¿,£¿,£¿,£¿,£¿
+test302,breakup rings find new homes,£¿,£¿,£¿,£¿,£¿,£¿
+test303,gronholm ahead as solberg crashes,£¿,£¿,£¿,£¿,£¿,£¿
+test304,norbit a waste of murphy,£¿,£¿,£¿,£¿,£¿,£¿
+test305,rocky start for bangkok airport,£¿,£¿,£¿,£¿,£¿,£¿
+test306,dead in lebanese minibus bombings,£¿,£¿,£¿,£¿,£¿,£¿
+test307,sex torture claims hit russia army,£¿,£¿,£¿,£¿,£¿,£¿
+test308,mega marsupials once roamed australia,£¿,£¿,£¿,£¿,£¿,£¿
+test309,rupert murdoch s secret tivo,£¿,£¿,£¿,£¿,£¿,£¿
+test310,update plane crashes at moscow airport no passengers,£¿,£¿,£¿,£¿,£¿,£¿
+test311,hpv vaccination stirs heated debate in america,£¿,£¿,£¿,£¿,£¿,£¿
+test312,court tv accused killer tells jury a love story,£¿,£¿,£¿,£¿,£¿,£¿
+test313,whistle blowing web site exposed,£¿,£¿,£¿,£¿,£¿,£¿
+test314,start late retire rich,£¿,£¿,£¿,£¿,£¿,£¿
+test315,somali pm vows to bring islamists to justice,£¿,£¿,£¿,£¿,£¿,£¿
+test316,swingers more common than most think,£¿,£¿,£¿,£¿,£¿,£¿
+test317,anna nicole smith fans mourn in cyberspace,£¿,£¿,£¿,£¿,£¿,£¿
+test318,antibiotic ketek more dangerous than thought,£¿,£¿,£¿,£¿,£¿,£¿
+test319,time to book your cruise,£¿,£¿,£¿,£¿,£¿,£¿
+test320,blazing angels for ps fails to soar,£¿,£¿,£¿,£¿,£¿,£¿
+test321,north korea aid demand stall talks,£¿,£¿,£¿,£¿,£¿,£¿
+test322,cartoon network head steps down,£¿,£¿,£¿,£¿,£¿,£¿
+test323,malaysia aggressively wooing tourists,£¿,£¿,£¿,£¿,£¿,£¿
+test324,anna nicole smith s bahamas home seized,£¿,£¿,£¿,£¿,£¿,£¿
+test325,andromeda involved in galactic collision,£¿,£¿,£¿,£¿,£¿,£¿
+test326,rwanda mulling kid limit for families,£¿,£¿,£¿,£¿,£¿,£¿
+test327,wilkinson sets record in tame win,£¿,£¿,£¿,£¿,£¿,£¿
+test328,army engineers say dam safe,£¿,£¿,£¿,£¿,£¿,£¿
+test329,france al qaeda suspects arrested,£¿,£¿,£¿,£¿,£¿,£¿
+test330,utah gunman survived srebrenica,£¿,£¿,£¿,£¿,£¿,£¿
+test331,creating a whole album in a month,£¿,£¿,£¿,£¿,£¿,£¿
+test332,india to test new nuclear missile,£¿,£¿,£¿,£¿,£¿,£¿
+test333,g to china ease exchange rate grip,£¿,£¿,£¿,£¿,£¿,£¿
+test334,hatton hands back ibf title again,£¿,£¿,£¿,£¿,£¿,£¿
+test335,bernanke economy healthy but,£¿,£¿,£¿,£¿,£¿,£¿
+test336,mickelson sutherland share lead,£¿,£¿,£¿,£¿,£¿,£¿
+test337,napping is good for your heart study finds,£¿,£¿,£¿,£¿,£¿,£¿
+test338,princess masako author no regrets,£¿,£¿,£¿,£¿,£¿,£¿
+test339,students use im lingo in essays,£¿,£¿,£¿,£¿,£¿,£¿
+test340,malaysia launches tourism campaign,£¿,£¿,£¿,£¿,£¿,£¿
+test341,study africa s internet gap getting wider,£¿,£¿,£¿,£¿,£¿,£¿
+test342,travel chaos as heavy snow hits uk,£¿,£¿,£¿,£¿,£¿,£¿
+test343,paula abdul i have never been drunk,£¿,£¿,£¿,£¿,£¿,£¿
+test344,salmonella outbreak traced to peanut butter,£¿,£¿,£¿,£¿,£¿,£¿
+test345,putin u s force fostering nuke ambitions,£¿,£¿,£¿,£¿,£¿,£¿
+test346,nuke detectors to ring new york official says,£¿,£¿,£¿,£¿,£¿,£¿
+test347,double bus bombing kills three in lebanon,£¿,£¿,£¿,£¿,£¿,£¿
+test348,davydenko out as seeds scattered,£¿,£¿,£¿,£¿,£¿,£¿
+test349,obama i m running for president,£¿,£¿,£¿,£¿,£¿,£¿
+test350,paterson boots scotland to victory,£¿,£¿,£¿,£¿,£¿,£¿
+test351,african americans are organ donors these days but what about bone marrow,£¿,£¿,£¿,£¿,£¿,£¿
+test352,study on the job naps might help heart,£¿,£¿,£¿,£¿,£¿,£¿
+test353,guinea capital largely calm under curfew marital law,£¿,£¿,£¿,£¿,£¿,£¿
+test354,bosses sleeping on idea of letting workers take naps,£¿,£¿,£¿,£¿,£¿,£¿
+test355,teacher s porn conviction sparks tech debate,£¿,£¿,£¿,£¿,£¿,£¿
+test356,singapore pampers its waterfront promenade,£¿,£¿,£¿,£¿,£¿,£¿
+test357,rwanda mulls three child limit,£¿,£¿,£¿,£¿,£¿,£¿
+test358,samsung settles price fixing lawsuit,£¿,£¿,£¿,£¿,£¿,£¿
+test359,radical cleric al sadr in iran u s insists,£¿,£¿,£¿,£¿,£¿,£¿
+test360,reports harvard set to name first female president,£¿,£¿,£¿,£¿,£¿,£¿
+test361,iraq unveils new security plans,£¿,£¿,£¿,£¿,£¿,£¿
+test362,university offers support to new orleans school,£¿,£¿,£¿,£¿,£¿,£¿
+test363,storm causes slick icy roads,£¿,£¿,£¿,£¿,£¿,£¿
+test364,south korea fire kills foreigners,£¿,£¿,£¿,£¿,£¿,£¿
+test365,prehistoric lovers found locked in eternal embrace,£¿,£¿,£¿,£¿,£¿,£¿
+test366,charts is your city lean or lethargic,£¿,£¿,£¿,£¿,£¿,£¿
+test367,peru leader questioned in massacre probe,£¿,£¿,£¿,£¿,£¿,£¿
+test368,u s commander iraq not hopeless,£¿,£¿,£¿,£¿,£¿,£¿
+test369,australian pm stands by obama attack,£¿,£¿,£¿,£¿,£¿,£¿
+test370,mardi gras rebound in the offing for new orleans,£¿,£¿,£¿,£¿,£¿,£¿
+test371,siestas may cut heart disease risk,£¿,£¿,£¿,£¿,£¿,£¿
+test372,oregon snorkeler mistaken for rodent shot in face,£¿,£¿,£¿,£¿,£¿,£¿
+test373,petraeus takes command in iraq,£¿,£¿,£¿,£¿,£¿,£¿
+test374,dead after utah mall shooting rampage,£¿,£¿,£¿,£¿,£¿,£¿
+test375,sharks kill four people in dull year,£¿,£¿,£¿,£¿,£¿,£¿
+test376,record shattering day on wall st,£¿,£¿,£¿,£¿,£¿,£¿
+test377,comedian says government silences critics,£¿,£¿,£¿,£¿,£¿,£¿
+test378,rockers big winners at brit awards,£¿,£¿,£¿,£¿,£¿,£¿
+test379,samba school leader killed before rio carnival,£¿,£¿,£¿,£¿,£¿,£¿
+test380,taiwan s mr clean indicted steps down,£¿,£¿,£¿,£¿,£¿,£¿
+test381,woman fights to keep drunken driver in jail,£¿,£¿,£¿,£¿,£¿,£¿
+test382,al qaeda group calls for attacks on u s oil,£¿,£¿,£¿,£¿,£¿,£¿
+test383,cousin gunman was srebrenica survivor,£¿,£¿,£¿,£¿,£¿,£¿
+test384,turkmenistan votes for president,£¿,£¿,£¿,£¿,£¿,£¿
+test385,here is some advice to take to heart,£¿,£¿,£¿,£¿,£¿,£¿
+test386,don t miss tax breaks,£¿,£¿,£¿,£¿,£¿,£¿
+test387,police break up kosovo protests,£¿,£¿,£¿,£¿,£¿,£¿
+test388,messi makes barcelona squad return,£¿,£¿,£¿,£¿,£¿,£¿
+test389,jump reported in accidental drug overdose deaths,£¿,£¿,£¿,£¿,£¿,£¿
+test390,catania punished for fan violence,£¿,£¿,£¿,£¿,£¿,£¿
+test391,isinbayeva sets th world record,£¿,£¿,£¿,£¿,£¿,£¿
+test392,lawmakers blast fda drug safety oversight,£¿,£¿,£¿,£¿,£¿,£¿
+test393,regular naps make hearts healthy,£¿,£¿,£¿,£¿,£¿,£¿
+test394,ice stops trolleys cold,£¿,£¿,£¿,£¿,£¿,£¿
+test395,u s gunman was srebrenica survivor,£¿,£¿,£¿,£¿,£¿,£¿
+test396,outdated baby food found on shelves,£¿,£¿,£¿,£¿,£¿,£¿
+test397,tow truck drivers accused of stealing cars,£¿,£¿,£¿,£¿,£¿,£¿
+test398,bush it s time for congress to back energy plan,£¿,£¿,£¿,£¿,£¿,£¿
+test399,uk soldiers cleared of iraq abuse,£¿,£¿,£¿,£¿,£¿,£¿
+test400,fda revises label warnings on the antibiotic ketek,£¿,£¿,£¿,£¿,£¿,£¿
+test401,toshiba portege r,£¿,£¿,£¿,£¿,£¿,£¿
+test402,south africa mourns adelaide tambo,£¿,£¿,£¿,£¿,£¿,£¿
+test403,evacuees can return home after plant blast,£¿,£¿,£¿,£¿,£¿,£¿
+test404,anna nicole smith s body lies in legal limbo,£¿,£¿,£¿,£¿,£¿,£¿
+test405,former teacher poses for playboy,£¿,£¿,£¿,£¿,£¿,£¿
+test406,france rejects rwandan investigators,£¿,£¿,£¿,£¿,£¿,£¿
+test407,a nap a day may keep the heart doctor away,£¿,£¿,£¿,£¿,£¿,£¿
+test408,higley gonzalez lead in malaysia,£¿,£¿,£¿,£¿,£¿,£¿
+test409,grammys ready to name winners,£¿,£¿,£¿,£¿,£¿,£¿
+test410,pound will not drop armstrong case,£¿,£¿,£¿,£¿,£¿,£¿
+test411,reunited police to start world tour in may,£¿,£¿,£¿,£¿,£¿,£¿
+test412,turkmen acting leader sworn in as new president,£¿,£¿,£¿,£¿,£¿,£¿
+test413,allen and okur get all star call,£¿,£¿,£¿,£¿,£¿,£¿
+test414,svindal claims are golden double,£¿,£¿,£¿,£¿,£¿,£¿
+test415,trolley square shooting leaves dead including gunman,£¿,£¿,£¿,£¿,£¿,£¿
+test416,bridge blast stops i traffic,£¿,£¿,£¿,£¿,£¿,£¿
+test417,mother daughter stabbed near school,£¿,£¿,£¿,£¿,£¿,£¿
+test418,excerpt politicians and the press,£¿,£¿,£¿,£¿,£¿,£¿
+test419,north korea gets money and respect,£¿,£¿,£¿,£¿,£¿,£¿
+test420,beyonce in a bikini as si s swimsuit cover model,£¿,£¿,£¿,£¿,£¿,£¿
+test421,loving with all your brain,£¿,£¿,£¿,£¿,£¿,£¿
+test422,shoplifters choice police or t shirt of shame,£¿,£¿,£¿,£¿,£¿,£¿
+test423,cuban official web a wild colt,£¿,£¿,£¿,£¿,£¿,£¿
+test424,slow music and lyrics,£¿,£¿,£¿,£¿,£¿,£¿
+test425,mexican navy helps in hunt for u s engineer,£¿,£¿,£¿,£¿,£¿,£¿
+test426,smith baby may not be pot of gold,£¿,£¿,£¿,£¿,£¿,£¿
+test427,latest updates on world s top stories,£¿,£¿,£¿,£¿,£¿,£¿
+test428,beating leaves teen in coma,£¿,£¿,£¿,£¿,£¿,£¿
+test429,tiempo libre has grammy dreams,£¿,£¿,£¿,£¿,£¿,£¿
+test430,gps sneakers locate with press of a button,£¿,£¿,£¿,£¿,£¿,£¿
+test431,embattled edwards blogger quits campaign,£¿,£¿,£¿,£¿,£¿,£¿
+test432,britons deported from somalia held under terrorism act,£¿,£¿,£¿,£¿,£¿,£¿
+test433,updates on world s top stories,£¿,£¿,£¿,£¿,£¿,£¿
+test434,breast cancer drug promises hope,£¿,£¿,£¿,£¿,£¿,£¿
+test435,ancient coin shows cleopatra was no beauty,£¿,£¿,£¿,£¿,£¿,£¿
+test436,youtube yields surprising payback,£¿,£¿,£¿,£¿,£¿,£¿
+test437,up to inches of snow in forecast,£¿,£¿,£¿,£¿,£¿,£¿
+test438,werder make man ajax pay price,£¿,£¿,£¿,£¿,£¿,£¿
+test439,eu condemns illegal cia flights,£¿,£¿,£¿,£¿,£¿,£¿
+test440,report links humans to global warming,£¿,£¿,£¿,£¿,£¿,£¿
+test441,un nuclear watchdog slashes iran aid,£¿,£¿,£¿,£¿,£¿,£¿
+test442,survey tech a tool in teen dating abuse,£¿,£¿,£¿,£¿,£¿,£¿
+test443,the breast cancer breakthrough saving women a year,£¿,£¿,£¿,£¿,£¿,£¿
+test444,tourist spot resists gravity but not progress,£¿,£¿,£¿,£¿,£¿,£¿
+test445,the nfl s biggest potential free agents,£¿,£¿,£¿,£¿,£¿,£¿
+test446,world tourism sets record in,£¿,£¿,£¿,£¿,£¿,£¿
+test447,ba to charge for an extra bag,£¿,£¿,£¿,£¿,£¿,£¿
+test448,kuerten returns to winners circle,£¿,£¿,£¿,£¿,£¿,£¿
+test449,world s oldest newspaper now exists only online,£¿,£¿,£¿,£¿,£¿,£¿
+test450,japanese whaler afire in antarctic,£¿,£¿,£¿,£¿,£¿,£¿
+test451,eu document iranian bomb unstoppable,£¿,£¿,£¿,£¿,£¿,£¿
+test452,u s urged to lead on green actions,£¿,£¿,£¿,£¿,£¿,£¿
+test453,see if your city is one of the united states top fittest or fattest,£¿,£¿,£¿,£¿,£¿,£¿
+test454,lee in pre world cup injury scare,£¿,£¿,£¿,£¿,£¿,£¿
+test455,new cancer drug to save a thousand lives a year,£¿,£¿,£¿,£¿,£¿,£¿
+test456,ex teacher guilty in nude pictures scheme,£¿,£¿,£¿,£¿,£¿,£¿
+test457,fire extinguisher part of tennessee execution kit,£¿,£¿,£¿,£¿,£¿,£¿
+test458,founder returns to dell helm,£¿,£¿,£¿,£¿,£¿,£¿
+test459,charles gibson takes over first place,£¿,£¿,£¿,£¿,£¿,£¿
+test460,ex border patrol agent beaten in prison,£¿,£¿,£¿,£¿,£¿,£¿
+test461,made in china irks some burberry shoppers,£¿,£¿,£¿,£¿,£¿,£¿
+test462,stonehenge workers village found,£¿,£¿,£¿,£¿,£¿,£¿
+test463,who is prince frederic von anhalt,£¿,£¿,£¿,£¿,£¿,£¿
+test464,latest food fad space potatoes,£¿,£¿,£¿,£¿,£¿,£¿
+test465,ethiopia readies for millennium all its own,£¿,£¿,£¿,£¿,£¿,£¿
+test466,good news for slackers naps may cut risk for heart problems,£¿,£¿,£¿,£¿,£¿,£¿
+test467,snowbirds shortening their florida stays,£¿,£¿,£¿,£¿,£¿,£¿
+test468,win a concert date with the police,£¿,£¿,£¿,£¿,£¿,£¿
+test469,snow begins heavy accumulations expected,£¿,£¿,£¿,£¿,£¿,£¿
+test470,jet flips in snowstorm none dead,£¿,£¿,£¿,£¿,£¿,£¿
+test471,frantic call in ryan o neal case,£¿,£¿,£¿,£¿,£¿,£¿
+test472,durant s success trumps the gators,£¿,£¿,£¿,£¿,£¿,£¿
+test473,scientist snoops in astronauts journals,£¿,£¿,£¿,£¿,£¿,£¿
+test474,youtube founders split m payout,£¿,£¿,£¿,£¿,£¿,£¿
+test475,african nation hopes whoopi can help,£¿,£¿,£¿,£¿,£¿,£¿
+test476,united hang on to six point lead,£¿,£¿,£¿,£¿,£¿,£¿
+test477,lawyer seizes smith s bahamas home,£¿,£¿,£¿,£¿,£¿,£¿
+test478,was prince s super show too revealing,£¿,£¿,£¿,£¿,£¿,£¿
+test479,clijsters looks for a long goodbye,£¿,£¿,£¿,£¿,£¿,£¿
+test480,snow s too deep even for snowmobiles,£¿,£¿,£¿,£¿,£¿,£¿
+test481,study female seals picky about mates,£¿,£¿,£¿,£¿,£¿,£¿
+test482,roundup protests erupt despite state of siege in guinea,£¿,£¿,£¿,£¿,£¿,£¿
+test483,study more kids exposed to online porn,£¿,£¿,£¿,£¿,£¿,£¿
+test484,beyonce new si bikini cover girl,£¿,£¿,£¿,£¿,£¿,£¿
+test485,marijuana helps ease hiv nerve pain study says,£¿,£¿,£¿,£¿,£¿,£¿
+test486,serena misses bangalore tournament,£¿,£¿,£¿,£¿,£¿,£¿
+test487,dryer blamed for fire killing cats dogs,£¿,£¿,£¿,£¿,£¿,£¿
+test488,roddick murray score in san jose,£¿,£¿,£¿,£¿,£¿,£¿
+test489,apple trademark dispute settled,£¿,£¿,£¿,£¿,£¿,£¿
+test490,u s online love brokers eye china,£¿,£¿,£¿,£¿,£¿,£¿
+test491,u s diverts troops to fight taliban,£¿,£¿,£¿,£¿,£¿,£¿
+test492,house of cards actor ian richardson dead,£¿,£¿,£¿,£¿,£¿,£¿
+test493,taliban leader killed in airstrike,£¿,£¿,£¿,£¿,£¿,£¿
+test494,escape to prague without the summer hordes,£¿,£¿,£¿,£¿,£¿,£¿
+test495,kathmandu first snow in years,£¿,£¿,£¿,£¿,£¿,£¿
+test496,nasdaq fails in bid for lse,£¿,£¿,£¿,£¿,£¿,£¿
+test497,ex pastor gets death sentence,£¿,£¿,£¿,£¿,£¿,£¿
+test498,baby born on turnpike after dad misses exit,£¿,£¿,£¿,£¿,£¿,£¿
+test499,study links chimps and hammers,£¿,£¿,£¿,£¿,£¿,£¿
+test500,un google earth map climate change,£¿,£¿,£¿,£¿,£¿,£¿
